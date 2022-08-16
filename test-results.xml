@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="2" time="5.901" timestamp="2022-08-12T15:33:21.314375" hostname="IBM-DG5GDN3"><testcase classname="test" name="test_output" time="2.978" /><testcase classname="test" name="test_add" time="2.612" /></testsuite></testsuites>
